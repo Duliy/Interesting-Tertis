@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "\u4EFB\u52A1-auto_tetris",
+      "appliesTo": "auto_tetris/",
+      "type": "launch"
+    }
+  ]
+}
